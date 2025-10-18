@@ -2,3 +2,13 @@ baseURL = 'https://mylhassane.github.io/blog/'
 languageCode = 'ar-ma'
 title = 'المدونة'
 theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.assets]
+css = ["css/custom.css"]

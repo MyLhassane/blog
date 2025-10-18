@@ -4,16 +4,24 @@
     <title>Posts on المدونة</title>
     <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on المدونة</description>
-    <generator>Hugo -- 0.151.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>ar-ma</language>
     <lastBuildDate>Sat, 18 Oct 2025 08:25:17 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/blog/posts/hello-world/</link>
+      <title>عمرانٌ يُشاد... وإنسانٌ يُهدَم</title>
+      <link>http://localhost:1313/blog/posts/urbanization-and-humanity/</link>
       <pubDate>Sat, 18 Oct 2025 08:25:17 +0100</pubDate>
-      <guid>http://localhost:1313/blog/posts/hello-world/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/posts/urbanization-and-humanity/</guid>
+      <description>&lt;p&gt;تتجه أنظار العالم إلى المغرب وهو يشهد طفرةً في المشاريع الكبرى: موانئ، ومدن جديدة، ومنتجعات سياحية تُقدَّم بوصفها رموزًا للنهضة.
+لكنّ ما يبدو نجاحًا عمرانيًا قد يُخفي في باطنه سؤالًا مؤلمًا:
+هل نبني بلدًا متينًا، أم واجهةً براقة تُخفي تصدعاتٍ في عمق الإنسان؟&lt;/p&gt;
+&lt;p&gt;كثيرٌ من هذه المشاريع تُموَّل من الخارج، فتُفتح لها الأبواب باسم “الاستثمار والتنمية”.
+غير أنّ المانح لا يقدّم المال مجانًا، بل يزرع معه شروطًا ثقافية واقتصادية،
+تُعيد توجيه بوصلتنا من الداخل دون ضجيج.
+وحين يُعاد ترتيب الأولويات لتُرضي السوق لا المواطن،
+تتحول التنمية إلى واجهة للرأسمالية المتوحشة،
+ويُغدو الإنسان — الذي خُلقت التنمية لأجله — ضحيةً ضمن معادلتها.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}" dir="{{ if or (eq site.LanguageCode "ar") (eq site.LanguageCode "ar-ma") (eq site.LanguageCode "fa") (eq site.LanguageCode "he") }}rtl{{ else }}ltr{{ end }}">
+  <head>
+    {{- partial "head.html" . -}}
+    <!-- أضف CSS المخصص بعد تحميل ملفات القالب -->
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  </head>
+
+  <body class="list{{ if .IsHome }} home{{ end }}{{ if eq site.Params.defaultTheme "dark" }} dark{{ end }}">
+    <script>
+      // إصلاح التبديل بين الوضع الداكن والنهاري
+      (function() {
+        const theme = localStorage.getItem("pref-theme");
+        if (theme === "dark") document.body.classList.add("dark");
+        else if (theme === "light") document.body.classList.remove("dark");
+      })();
+    </script>
+
+    {{- partial "header.html" . -}}
+
+    <main class="main">
+      {{- block "main" . }}{{- end }}
+    </main>
+
+    {{- partial "footer.html" . -}}
+
+  </body>
+</html>

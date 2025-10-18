@@ -4,7 +4,7 @@
     <title>المدونة</title>
     <link>http://localhost:1313/blog/</link>
     <description>Recent content on المدونة</description>
-    <generator>Hugo -- 0.151.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>ar-ma</language>
     <lastBuildDate>Sat, 18 Oct 2025 08:25:17 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
