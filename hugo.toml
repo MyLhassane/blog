@@ -3,7 +3,7 @@ language_code = 'ar-ma'
 title = 'المدونة'
 theme = 'PaperMod'
 
-canonify_urls = false
+canonify_urls = true
 relative_urls = true
 
 [params]
