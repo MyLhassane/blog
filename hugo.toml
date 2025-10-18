@@ -1,0 +1,4 @@
+baseURL = 'https://mylhassane.github.io/blog/'
+languageCode = 'ar-ma'
+title = 'المدونة'
+theme = "PaperMod"
