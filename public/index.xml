@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>المدونة</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://mylhassane.github.io/blog/</link>
     <description>Recent content on المدونة</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>ar-ma</language>
     <lastBuildDate>Sat, 18 Oct 2025 08:25:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mylhassane.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>عمرانٌ يُشاد... وإنسانٌ يُهدَم</title>
-      <link>http://localhost:1313/blog/posts/urbanization-and-humanity/</link>
+      <link>https://mylhassane.github.io/blog/posts/urbanization-and-humanity/</link>
       <pubDate>Sat, 18 Oct 2025 08:25:17 +0100</pubDate>
-      <guid>http://localhost:1313/blog/posts/urbanization-and-humanity/</guid>
+      <guid>https://mylhassane.github.io/blog/posts/urbanization-and-humanity/</guid>
       <description>&lt;p&gt;تتجه أنظار العالم إلى المغرب وهو يشهد طفرةً في المشاريع الكبرى: موانئ، ومدن جديدة، ومنتجعات سياحية تُقدَّم بوصفها رموزًا للنهضة.
 لكنّ ما يبدو نجاحًا عمرانيًا قد يُخفي في باطنه سؤالًا مؤلمًا:
 هل نبني بلدًا متينًا، أم واجهةً براقة تُخفي تصدعاتٍ في عمق الإنسان؟&lt;/p&gt;
