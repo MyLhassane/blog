@@ -1,17 +1,19 @@
-baseURL = 'https://mylhassane.github.io/blog/'
-canonifyURLs = true
-relativeURLs = true
-languageCode = 'ar-ma'
+base_url = 'https://mylhassane.github.io/blog/'
+language_code = 'ar-ma'
 title = 'المدونة'
-theme = "PaperMod"
+theme = 'PaperMod'
+
+canonify_urls = false
+relative_urls = true
 
 [params]
-  defaultTheme = "light"
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+default_theme = 'light'
+show_reading_time = true
+show_share_buttons = true
+show_post_nav_links = true
+show_breadcrumb_crumbs = true
 
 [params.assets]
-css = ["css/custom.css"]
-publishDir = "docs"
+css = ['css/custom.css']
+publish_dir = 'docs'
+
